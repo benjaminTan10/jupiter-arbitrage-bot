@@ -208,25 +208,3 @@ This setting can be found in the ./src/bot/index.js file as shown below:
 		enforceSingleTx: false,
 		swapMode: 'ExactIn',
 	});
-
-
-· [back to top](#nav) ·
-
-# contributing
-
-Arb Jupiter Bot is an open source project and contributions are welcome.
-
-· [back to top](#nav) ·
-
-# license
-
-**MIT** yay! 🎉
-
-· [back to top](#nav) ·
-
-# risk disclaimer
-
-This software is provided as is, without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors be liable for any claim, damages, or other liability. 
-
-· [back to top](#nav) ·
-
